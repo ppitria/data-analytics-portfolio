@@ -9,6 +9,7 @@ Each project lives in its own folder with a dedicated README covering the goal, 
 | Project | Type | Description | Tools |
 |---|---|---|---|
 | [AI Text Detection for Essay Scoring](https://github.com/ppitria/data-analytics-portfolio/tree/31771b948c4e38fe403756286d20d26964e0f241/ai-text-detection-with-essay-scoring) | Thesis | Integrates an IndoBERT-based AI text detector with an automated essay scoring system | Python, IndoBERT, NLP |
+| [Employee Data Management & ETL Pipeline](https://github.com/ppitria/data-analytics-portfolio/tree/ebbe5c6adf354c781bf10009aaa1603e0563f4ef/employee-data-management-and-etl-pipeline) | Simulation | Relational database, ETL Pipeline, and HR analytics dashboard built on synthetic data | Python, Power BI, Docker, SQL, PostgreSQL |
 
 > More projects coming soon. 🚧
 
@@ -24,6 +25,7 @@ Each project lives in its own folder with a dedicated README covering the goal, 
 ```
 data-analytics-portfolio/
 ├── ai-text-detection-with-essay-scoring/
+├── employee-data-management-and-etl-pipeline
 └── README.md
 ```
 
