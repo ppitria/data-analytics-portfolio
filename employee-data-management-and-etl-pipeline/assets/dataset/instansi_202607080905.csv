@@ -1,0 +1,48 @@
+"instansi_id","kode_instansi","nama_instansi","jenis_instansi","provinsi","created_at","updated_at"
+1,KEM001,Kementerian Badan Usaha Milik Negara,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+2,KEM002,Kementerian Dalam Negeri,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+3,KEM003,Kementerian Luar Negeri,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+4,KEM004,Kementerian Pertahanan,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+5,KEM005,Kementerian Keuangan,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+6,KEM006,Kementerian Hukum dan Hak Asasi Manusia,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+7,KEM007,Kementerian Pertanian,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+8,KEM008,Kementerian Kesehatan,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+9,KEM009,Kementerian Agama,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+10,KEM010,Kementerian Ketenagakerjaan,Pusat,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+11,PEM001,Pemerintah Aceh,Daerah,Aceh,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+12,PEM002,Pemerintah Provinsi Sumatera Utara,Daerah,Sumatera Utara,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+13,PEM003,Pemerintah Provinsi Sumatera Barat,Daerah,Sumatera Barat,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+14,PEM004,Pemerintah Provinsi Riau,Daerah,Riau,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+15,PEM005,Pemerintah Provinsi Kepulauan Riau,Daerah,Kepulauan Riau,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+16,PEM006,Pemerintah Provinsi Jambi,Daerah,Jambi,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+17,PEM007,Pemerintah Provinsi Sumatera Selatan,Daerah,Sumatera Selatan,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+18,PEM008,Pemerintah Provinsi Kep. Bangka Belitung,Daerah,Kep. Bangka Belitung,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+19,PEM009,Pemerintah Provinsi Bengkulu,Daerah,Bengkulu,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+20,PEM010,Pemerintah Provinsi Lampung,Daerah,Lampung,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+21,PEM011,Pemerintah Provinsi DKI Jakarta,Daerah,DKI Jakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+22,PEM012,Pemerintah Provinsi Jawa Barat,Daerah,Jawa Barat,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+23,PEM013,Pemerintah Provinsi Jawa Tengah,Daerah,Jawa Tengah,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+24,PEM014,Pemerintah Daerah DI Yogyakarta,Daerah,DI Yogyakarta,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+25,PEM015,Pemerintah Provinsi Jawa Timur,Daerah,Jawa Timur,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+26,PEM016,Pemerintah Provinsi Bali,Daerah,Bali,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+27,PEM017,Pemerintah Provinsi Nusa Tenggara Barat,Daerah,Nusa Tenggara Barat,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+28,PEM018,Pemerintah Provinsi Nusa Tenggara Timur,Daerah,Nusa Tenggara Timur,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+29,PEM019,Pemerintah Provinsi Kalimantan Barat,Daerah,Kalimantan Barat,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+30,PEM020,Pemerintah Provinsi Kalimantan Tengah,Daerah,Kalimantan Tengah,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+31,PEM021,Pemerintah Provinsi Kalimantan Selatan,Daerah,Kalimantan Selatan,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+32,PEM022,Pemerintah Provinsi Kalimantan Timur,Daerah,Kalimantan Timur,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+33,PEM023,Pemerintah Provinsi Kalimantan Utara,Daerah,Kalimantan Utara,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+34,PEM024,Pemerintah Provinsi Sulawesi Utara,Daerah,Sulawesi Utara,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+35,PEM025,Pemerintah Provinsi Gorontalo,Daerah,Gorontalo,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+36,PEM026,Pemerintah Provinsi Sulawesi Tengah,Daerah,Sulawesi Tengah,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+37,PEM027,Pemerintah Provinsi Sulawesi Barat,Daerah,Sulawesi Barat,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+38,PEM028,Pemerintah Provinsi Sulawesi Selatan,Daerah,Sulawesi Selatan,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+39,PEM029,Pemerintah Provinsi Sulawesi Tenggara,Daerah,Sulawesi Tenggara,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+40,PEM030,Pemerintah Provinsi Maluku,Daerah,Maluku,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+41,PEM031,Pemerintah Provinsi Maluku Utara,Daerah,Maluku Utara,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+42,PEM032,Pemerintah Provinsi Papua,Daerah,Papua,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+43,PEM033,Pemerintah Provinsi Papua Barat,Daerah,Papua Barat,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+44,PEM034,Pemerintah Provinsi Papua Selatan,Daerah,Papua Selatan,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+45,PEM035,Pemerintah Provinsi Papua Tengah,Daerah,Papua Tengah,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+46,PEM036,Pemerintah Provinsi Papua Pegunungan,Daerah,Papua Pegunungan,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+47,PEM037,Pemerintah Provinsi Papua Barat Daya,Daerah,Papua Barat Daya,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929

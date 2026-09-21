@@ -1,0 +1,6 @@
+env/
+.env
+
+generate_data/
+
+connection.py

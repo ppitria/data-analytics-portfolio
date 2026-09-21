@@ -1,0 +1,24 @@
+"jabatan_id","kode_jabatan","nama_jabatan","jenis_jabatan","created_at","updated_at"
+1,JB001,Kepala Dinas,Struktural,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+2,JB002,Sekretaris,Struktural,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+3,JB003,Kepala Bidang,Struktural,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+4,JB004,Kepala Subbagian,Struktural,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+5,JB005,Analis Kebijakan Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+6,JB006,Analis Kebijakan Ahli Muda,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+7,JB007,Analis SDM Aparatur Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+8,JB008,Analis SDM Aparatur Ahli Muda,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+9,JB009,Analis Kepegawaian Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+10,JB010,Pranata Komputer Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+11,JB011,Pranata Komputer Ahli Muda,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+12,JB012,Analis Data,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+13,JB013,Statistisi Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+14,JB014,Perencana Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+15,JB015,Auditor Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+16,JB016,Arsiparis Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+17,JB017,Pustakawan Ahli Pertama,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+18,JB018,Pengelola Pengadaan Barang/Jasa,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+19,JB019,Dokter,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+20,JB020,Apoteker,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+21,JB021,Penyuluh Pertanian,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+22,JB022,Penghulu,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
+23,JB023,Pengawas Ketenagakerjaan,Fungsional,2026-07-08 07:49:00.929,2026-07-08 07:49:00.929
